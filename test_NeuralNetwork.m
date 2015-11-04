@@ -1,3 +1,5 @@
+% this file is used to verify that the neural network works properly. So we generate another 50-size of dataset to test whether the predict values are the same as the real ones. In the test part, we wrote the code in Freemat.
+
 % w: the weight of the function
 % x :the inputs
 % y: the real output
